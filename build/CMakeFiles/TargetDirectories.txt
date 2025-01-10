@@ -1,0 +1,3 @@
+/home/meli/dnn_inference/build/CMakeFiles/inference.dir
+/home/meli/dnn_inference/build/CMakeFiles/edit_cache.dir
+/home/meli/dnn_inference/build/CMakeFiles/rebuild_cache.dir
